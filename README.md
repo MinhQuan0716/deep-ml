@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 26 problems · 0 labs · 14 math
+**41** solved · 26 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-23 | [solution](math/0011-determinants-and-trace) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-23 | [solution](math/0012-inverse-and-rank) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-24 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-26 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-19 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-26 | [solution](math/0002-multivariate-calculus) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-19 | [solution](math/0008-vector-norms-and-linear-independence) |
