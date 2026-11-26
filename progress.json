@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:21:47.004Z",
+  "generated_at": "2026-11-26T01:55:42.454Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -429,6 +429,19 @@
       "last_pushed_at": "2026-11-25T09:21:45.300Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-11-26T01:55:41.243Z",
+      "last_pushed_at": "2026-11-26T01:55:41.243Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
