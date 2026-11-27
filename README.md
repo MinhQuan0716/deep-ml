@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 26 problems · 0 labs · 17 math
+**44** solved · 26 problems · 0 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-19 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-26 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-27 | [solution](math/0003-neural-network-derivatives) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-27 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-19 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
